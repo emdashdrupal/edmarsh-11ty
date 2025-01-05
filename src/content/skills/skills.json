@@ -1,4 +1,3 @@
 {
-  "tags": "skills",
-  "layout": "/layouts/skills.njk"
+  "tags": "skills"
 }

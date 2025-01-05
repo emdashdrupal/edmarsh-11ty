@@ -1,6 +1,6 @@
 ---
 title : "INDEXXXXXXXX"
-layout: '/layouts/base.njk'
+#layout: '/_includes/_layouts/base.njk'
 eleventyExcludeFromCollections: true
 ---
 Indice.

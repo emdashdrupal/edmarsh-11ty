@@ -1,5 +1,5 @@
 ---
 title : "Technical writing examples"
 eleventyExcludeFromCollections: true
-layout: '/layouts/tw-examples.njk'
+#layout: '/src/_includes/_layouts/tw-examples.njk'
 ---

@@ -13,5 +13,6 @@ dir: {
   input: "src";
   includes: "_includes";
   data: "_data"
+  layouts : "_layouts"
   output: "_site";
 }

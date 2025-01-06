@@ -1,3 +1,4 @@
 {
-  "tags": "skills"
+  "tags": "skills",
+  "layout" : "/layouts/skills"
 }

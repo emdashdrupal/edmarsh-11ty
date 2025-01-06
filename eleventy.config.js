@@ -6,13 +6,12 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("_includes/css/tw.css");
   eleventyConfig.addPlugin(syntaxHighlight);
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
-};
 
+};
 
 dir: {
   input: "src";
   includes: "_includes";
-  data: "_data"
-  layouts : "_layouts"
+  data: "_data";
   output: "_site";
 }
